@@ -1,0 +1,367 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		333D3A04189F741200E1446C /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 333D3A03189F741200E1446C /* MapKit.framework */; };
+		333D3A06189F741800E1446C /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 333D3A05189F741800E1446C /* CoreLocation.framework */; };
+		333D3A08189F742900E1446C /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 333D3A07189F742900E1446C /* AVFoundation.framework */; };
+		336F8958189F732C00346753 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 336F8957189F732C00346753 /* UIKit.framework */; };
+		336F895A189F732C00346753 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 336F8959189F732C00346753 /* Foundation.framework */; };
+		336F895C189F732C00346753 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 336F895B189F732C00346753 /* CoreGraphics.framework */; };
+		336F8962189F732C00346753 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 336F8960189F732C00346753 /* InfoPlist.strings */; };
+		336F8964189F732C00346753 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 336F8963189F732C00346753 /* main.m */; };
+		336F8968189F732C00346753 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 336F8967189F732C00346753 /* AppDelegate.m */; };
+		336F896A189F732C00346753 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 336F8969189F732C00346753 /* Default.png */; };
+		336F896C189F732C00346753 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 336F896B189F732C00346753 /* Default@2x.png */; };
+		336F896E189F732C00346753 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 336F896D189F732C00346753 /* Default-568h@2x.png */; };
+		336F8971189F732C00346753 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 336F8970189F732C00346753 /* ViewController.m */; };
+		336F8974189F732C00346753 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 336F8972189F732C00346753 /* ViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		333D3A03189F741200E1446C /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		333D3A05189F741800E1446C /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		333D3A07189F742900E1446C /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		336F8954189F732C00346753 /* MapBackgroud.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapBackgroud.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		336F8957189F732C00346753 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		336F8959189F732C00346753 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		336F895B189F732C00346753 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		336F895F189F732C00346753 /* MapBackgroud-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MapBackgroud-Info.plist"; sourceTree = "<group>"; };
+		336F8961189F732C00346753 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		336F8963189F732C00346753 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		336F8965189F732C00346753 /* MapBackgroud-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MapBackgroud-Prefix.pch"; sourceTree = "<group>"; };
+		336F8966189F732C00346753 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		336F8967189F732C00346753 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		336F8969189F732C00346753 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		336F896B189F732C00346753 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		336F896D189F732C00346753 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		336F896F189F732C00346753 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		336F8970189F732C00346753 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		336F8973189F732C00346753 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		336F8951189F732C00346753 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				333D3A08189F742900E1446C /* AVFoundation.framework in Frameworks */,
+				333D3A06189F741800E1446C /* CoreLocation.framework in Frameworks */,
+				333D3A04189F741200E1446C /* MapKit.framework in Frameworks */,
+				336F8958189F732C00346753 /* UIKit.framework in Frameworks */,
+				336F895A189F732C00346753 /* Foundation.framework in Frameworks */,
+				336F895C189F732C00346753 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		336F894B189F732C00346753 = {
+			isa = PBXGroup;
+			children = (
+				336F895D189F732C00346753 /* MapBackgroud */,
+				336F8956189F732C00346753 /* Frameworks */,
+				336F8955189F732C00346753 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		336F8955189F732C00346753 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				336F8954189F732C00346753 /* MapBackgroud.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		336F8956189F732C00346753 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				333D3A07189F742900E1446C /* AVFoundation.framework */,
+				333D3A05189F741800E1446C /* CoreLocation.framework */,
+				333D3A03189F741200E1446C /* MapKit.framework */,
+				336F8957189F732C00346753 /* UIKit.framework */,
+				336F8959189F732C00346753 /* Foundation.framework */,
+				336F895B189F732C00346753 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		336F895D189F732C00346753 /* MapBackgroud */ = {
+			isa = PBXGroup;
+			children = (
+				336F8966189F732C00346753 /* AppDelegate.h */,
+				336F8967189F732C00346753 /* AppDelegate.m */,
+				336F896F189F732C00346753 /* ViewController.h */,
+				336F8970189F732C00346753 /* ViewController.m */,
+				336F8972189F732C00346753 /* ViewController.xib */,
+				336F895E189F732C00346753 /* Supporting Files */,
+			);
+			path = MapBackgroud;
+			sourceTree = "<group>";
+		};
+		336F895E189F732C00346753 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				336F895F189F732C00346753 /* MapBackgroud-Info.plist */,
+				336F8960189F732C00346753 /* InfoPlist.strings */,
+				336F8963189F732C00346753 /* main.m */,
+				336F8965189F732C00346753 /* MapBackgroud-Prefix.pch */,
+				336F8969189F732C00346753 /* Default.png */,
+				336F896B189F732C00346753 /* Default@2x.png */,
+				336F896D189F732C00346753 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		336F8953189F732C00346753 /* MapBackgroud */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 336F8977189F732C00346753 /* Build configuration list for PBXNativeTarget "MapBackgroud" */;
+			buildPhases = (
+				336F8950189F732C00346753 /* Sources */,
+				336F8951189F732C00346753 /* Frameworks */,
+				336F8952189F732C00346753 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MapBackgroud;
+			productName = MapBackgroud;
+			productReference = 336F8954189F732C00346753 /* MapBackgroud.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		336F894C189F732C00346753 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = Sky;
+			};
+			buildConfigurationList = 336F894F189F732C00346753 /* Build configuration list for PBXProject "MapBackgroud" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 336F894B189F732C00346753;
+			productRefGroup = 336F8955189F732C00346753 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				336F8953189F732C00346753 /* MapBackgroud */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		336F8952189F732C00346753 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				336F8962189F732C00346753 /* InfoPlist.strings in Resources */,
+				336F896A189F732C00346753 /* Default.png in Resources */,
+				336F896C189F732C00346753 /* Default@2x.png in Resources */,
+				336F896E189F732C00346753 /* Default-568h@2x.png in Resources */,
+				336F8974189F732C00346753 /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		336F8950189F732C00346753 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				336F8964189F732C00346753 /* main.m in Sources */,
+				336F8968189F732C00346753 /* AppDelegate.m in Sources */,
+				336F8971189F732C00346753 /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		336F8960189F732C00346753 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				336F8961189F732C00346753 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		336F8972189F732C00346753 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				336F8973189F732C00346753 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		336F8975189F732C00346753 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Aigerim Yessenbayeva (23K2GV6H3F)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Aigerim Yessenbayeva (23K2GV6H3F)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "EA009EAF-912F-46B8-9353-91F8C4B2B84B";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		336F8976189F732C00346753 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Aigerim Yessenbayeva (23K2GV6H3F)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Aigerim Yessenbayeva (23K2GV6H3F)";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "EA009EAF-912F-46B8-9353-91F8C4B2B84B";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		336F8978189F732C00346753 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Aigerim Yessenbayeva (23K2GV6H3F)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MapBackgroud/MapBackgroud-Prefix.pch";
+				INFOPLIST_FILE = "MapBackgroud/MapBackgroud-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "EA009EAF-912F-46B8-9353-91F8C4B2B84B";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		336F8979189F732C00346753 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Aigerim Yessenbayeva (23K2GV6H3F)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MapBackgroud/MapBackgroud-Prefix.pch";
+				INFOPLIST_FILE = "MapBackgroud/MapBackgroud-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "EA009EAF-912F-46B8-9353-91F8C4B2B84B";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		339DA20A18A29DA500979776 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Aigerim Yessenbayeva (23K2GV6H3F)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Aigerim Yessenbayeva (23K2GV6H3F)";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "EA009EAF-912F-46B8-9353-91F8C4B2B84B";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Distribution;
+		};
+		339DA20B18A29DA500979776 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Aigerim Yessenbayeva (23K2GV6H3F)";
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				CONFIGURATION_TEMP_DIR = "$(PROJECT_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MapBackgroud/MapBackgroud-Prefix.pch";
+				INFOPLIST_FILE = "MapBackgroud/MapBackgroud-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "EA009EAF-912F-46B8-9353-91F8C4B2B84B";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Distribution;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		336F894F189F732C00346753 /* Build configuration list for PBXProject "MapBackgroud" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				336F8975189F732C00346753 /* Debug */,
+				336F8976189F732C00346753 /* Release */,
+				339DA20A18A29DA500979776 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Distribution;
+		};
+		336F8977189F732C00346753 /* Build configuration list for PBXNativeTarget "MapBackgroud" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				336F8978189F732C00346753 /* Debug */,
+				336F8979189F732C00346753 /* Release */,
+				339DA20B18A29DA500979776 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Distribution;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 336F894C189F732C00346753 /* Project object */;
+}
