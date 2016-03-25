@@ -1,0 +1,633 @@
+TMapBackgroud
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Info.plist /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/MapBackgroud-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Distribution-iphoneos/MapBackgroud.app/ResourceRules.plist
+cProcessPCH /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-clmxifdntyesfgabwzcyvuoytwlk/MapBackgroud-Prefix.pch.pch MapBackgroud/MapBackgroud-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-avoobminyhxxrfdlwypvttwrzaeu/MapBackgroud-Prefix.pch.pch MapBackgroud/MapBackgroud-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/AppDelegate.o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/ViewController.o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/main.o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/main.o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/AppDelegate.o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/ViewController.o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/MapBackgroud normal armv7s
+cLd /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/MapBackgroud normal armv7
+cCreateUniversalBinary /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/MapBackgroud normal armv7\ armv7s
+cGenerateDSYMFile /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app.dSYM /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/MapBackgroud
+cCopyPNGFile /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default.png MapBackgroud/Default.png
+cCopyPNGFile /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default@2x.png MapBackgroud/Default@2x.png
+cCopyStringsFile /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/en.lproj/InfoPlist.strings MapBackgroud/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default-568h@2x.png MapBackgroud/Default-568h@2x.png
+cCompileXIB /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/en.lproj/ViewController.xib
+cProcessProductPackaging /Users/Sky/Library/MobileDevice/Provisioning\ Profiles/MY_pro.mobileprovision /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/embedded.mobileprovision
+cTouch /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud.xcent
+cCodeSign /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app
+cValidate /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000521BCCE10000000000000110
+t1377553633
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+c00000000523655430000000000000094
+t1379292483
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c00000000523655430000000000000096
+t1379292483
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c0000000052365543000000000000036B
+t1379292483
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052365547000000000000019E
+t1379292487
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005236554800000000006278E0
+t1379292488
+s6453472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005236554F00000000004D6390
+t1379292495
+s5071760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000523655500000000000145160
+t1379292496
+s1331552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000523655510000000000A8EAD0
+t1379292497
+s11070160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000005236555500000000003973E0
+t1379292501
+s3765216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000523655610000000002597C70
+t1379292513
+s39418992
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app
+t1391617976
+s374
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app.dSYM
+t2
+s0
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default-568h@2x.png
+t1391617976
+s7014
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default.png
+t1391617976
+s3688
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default@2x.png
+t1391617976
+s6316
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Info.plist
+t1391617974
+s1095
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/MapBackgroud
+t1391617975
+s139980
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/PkgInfo
+t1391617974
+s8
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/ResourceRules.plist
+t1391617974
+s150
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/embedded.mobileprovision
+t1391617976
+s8124
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/en.lproj/InfoPlist.strings
+t1391617975
+s42
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/en.lproj/ViewController.nib
+t1391617976
+s136
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud.xcent
+t1391617976
+s459
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/AppDelegate.o
+t1391617975
+s76048
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/MapBackgroud
+t1391617975
+s58056
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/MapBackgroud.LinkFileList
+c0000000052F267B60000000000000170
+t1391617974
+s368
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/ViewController.o
+t1391617975
+s71320
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/main.o
+t1391617975
+s3324
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/AppDelegate.o
+t1391617975
+s76048
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/MapBackgroud
+t1391617975
+s58060
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/MapBackgroud.LinkFileList
+c0000000052F267B60000000000000173
+t1391617974
+s371
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/ViewController.o
+t1391617975
+s71328
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/main.o
+t1391617975
+s3324
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/AppDelegate.m
+c0000000052EF5994000000000000096F
+t1391417748
+s2415
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/Default-568h@2x.png
+c000000005094C3F800000000000048A2
+t1351926776
+s18594
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/Default.png
+c000000005094C3F8000000000000198C
+t1351926776
+s6540
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/Default@2x.png
+c000000005094C3F80000000000003EEB
+t1351926776
+s16107
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/MapBackgroud-Info.plist
+c0000000052F2635A000000000000048D
+t1391616858
+s1165
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/MapBackgroud-Prefix.pch
+c0000000052EF3BAC0000000000000147
+t1391410092
+s327
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/ViewController.m
+c0000000052F267290000000000000D0A
+t1391617833
+s3338
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/en.lproj/InfoPlist.strings
+c0000000052EF3BAC000000000000002D
+t1391410092
+s45
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/en.lproj/ViewController.xib
+c0000000052EFB1A00000000000001652
+t1391440288
+s5714
+
+N/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/main.m
+c0000000052EF3BAC0000000000000144
+t1391410092
+s324
+
+N/Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-avoobminyhxxrfdlwypvttwrzaeu/MapBackgroud-Prefix.pch.pch
+t1391617975
+s5274532
+
+N/Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-clmxifdntyesfgabwzcyvuoytwlk/MapBackgroud-Prefix.pch.pch
+t1391617975
+s5274412
+
+N/Users/Sky/Library/MobileDevice/Provisioning Profiles/MY_pro.mobileprovision
+c0000000052F263400000000000001FBC
+t1391616832
+s8124
+
+CBuild AST from /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/AppDelegate.m
+r0
+
+CBuild AST from /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/ViewController.m
+r0
+
+CBuild AST from /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2237cf369fa2b841^e7c7e7369fa2b841^---0#1#1#--18"Check dependencies36"122DC480-5DC4-415B-9549-F6067E11A0C8-
+
+CCodeSign /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app
+s413310776.277287
+e413310776.520610
+r1
+xCodeSign
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"CodeSign Distribution-iphoneos/MapBackgroud.app47"CodeSign Distribution-iphoneos/MapBackgroud.app111c47389fa2b841^394785389fa2b841^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/0000000000000000^995"CodeSign Distribution-iphoneos/MapBackgroud.app    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Distribution: Humankind Design Ltd (PA5PTZBR2Y)" and provisioning profile "MY_pro" (EDA82B31-16FC-4D9C-8D13-E09280254432)    codesign --force --sign 295EE6CD211BFCB422321027A8515BBFC24585C8 --resource-rules=/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/ResourceRules.plist --entitlements /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud.xcent /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app36"5A9F11E3-A4B9-43D2-85B6-9BB2A197FB69-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CCompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/AppDelegate.o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413310775.634153
+e413310775.745079
+r1
+xCompileC
+xDistribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/AppDelegate.o
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/AppDelegate.m
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/AppDelegate.h
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/AppDelegate.m180"CompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/AppDelegate.o MapBackgroud/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb074a2379fa2b841^4dbdbe379fa2b841^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/MapBackgroud/AppDelegate.m0000000000000000^3316"CompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/AppDelegate.o MapBackgroud/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-generated-files.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-own-target-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-all-target-headers.hmap -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-project-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources/armv7 -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources -F/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-clmxifdntyesfgabwzcyvuoytwlk/MapBackgroud-Prefix.pch -MMD -MT dependencies -MF /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/AppDelegate.dia -c /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/AppDelegate.m -o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/AppDelegate.o36"D3BF2F69-A2EC-4D20-ACFF-8865CDB0ECB2-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CCompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/ViewController.o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413310775.634161
+e413310775.753706
+r1
+xCompileC
+xDistribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/ViewController.o
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/ViewController.m
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/ViewController.m186"CompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/ViewController.o MapBackgroud/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler6d74a2379fa2b841^f1f2c0379fa2b841^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/MapBackgroud/ViewController.m0000000000000000^3334"CompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/ViewController.o MapBackgroud/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-generated-files.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-own-target-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-all-target-headers.hmap -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-project-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources/armv7 -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources -F/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-clmxifdntyesfgabwzcyvuoytwlk/MapBackgroud-Prefix.pch -MMD -MT dependencies -MF /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/ViewController.dia -c /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/ViewController.m -o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/ViewController.o36"0C6BA9E2-8F82-4752-BFE1-4945F75A3915-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CCompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/main.o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413310775.634168
+e413310775.661163
+r1
+xCompileC
+xDistribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/main.o
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/main.m
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/main.m166"CompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/main.o MapBackgroud/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2a74a2379fa2b841^fa41a9379fa2b841^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/MapBackgroud/main.m0000000000000000^3274"CompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/main.o MapBackgroud/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-generated-files.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-own-target-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-all-target-headers.hmap -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-project-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources/armv7 -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources -F/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-clmxifdntyesfgabwzcyvuoytwlk/MapBackgroud-Prefix.pch -MMD -MT dependencies -MF /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/main.dia -c /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/main.m -o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/main.o36"6FD5B9D4-87D7-43DD-B0CD-4214BEC6BF96-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CCompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/AppDelegate.o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413310775.662573
+e413310775.765933
+r1
+xCompileC
+xDistribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/AppDelegate.o
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/AppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/AppDelegate.m
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/AppDelegate.h
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/AppDelegate.m182"CompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/AppDelegate.o MapBackgroud/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler11c4a9379fa2b841^1f14c4379fa2b841^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/MapBackgroud/AppDelegate.m0000000000000000^3323"CompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/AppDelegate.o MapBackgroud/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-generated-files.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-own-target-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-all-target-headers.hmap -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-project-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources/armv7s -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources -F/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-avoobminyhxxrfdlwypvttwrzaeu/MapBackgroud-Prefix.pch -MMD -MT dependencies -MF /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/AppDelegate.m -o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/AppDelegate.o36"1A939F88-92E3-4682-8DB9-C1BF74438205-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CCompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/ViewController.o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413310775.664990
+e413310775.804014
+r1
+xCompileC
+xDistribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/ViewController.o
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/ViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/ViewController.m
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/ViewController.m188"CompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/ViewController.o MapBackgroud/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler0a64aa379fa2b841^aad3cd379fa2b841^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/MapBackgroud/ViewController.m0000000000000000^3341"CompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/ViewController.o MapBackgroud/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-generated-files.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-own-target-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-all-target-headers.hmap -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-project-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources/armv7s -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources -F/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-avoobminyhxxrfdlwypvttwrzaeu/MapBackgroud-Prefix.pch -MMD -MT dependencies -MF /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/ViewController.d --serialize-diagnostics /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/ViewController.dia -c /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/ViewController.m -o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/ViewController.o36"92FDB460-0571-4D5C-AA11-A5B3D61429FC-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CCompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/main.o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413310775.634367
+e413310775.663627
+r1
+xCompileC
+xDistribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/main.o
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/main.m
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/main.m168"CompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/main.o MapBackgroud/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilere17ca2379fa2b841^b4e4a9379fa2b841^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/MapBackgroud/main.m0000000000000000^3281"CompileC Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/main.o MapBackgroud/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-generated-files.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-own-target-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-all-target-headers.hmap -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-project-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources/armv7s -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources -F/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-avoobminyhxxrfdlwypvttwrzaeu/MapBackgroud-Prefix.pch -MMD -MT dependencies -MF /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/main.dia -c /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/main.m -o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/main.o36"5E6D7173-5A07-413D-B6E4-8321ECD7D20C-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CCompileXIB /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/en.lproj/ViewController.xib
+s413310775.972856
+e413310776.184784
+r1
+xCompileXIB
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/en.lproj/ViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compiling /Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/en.lproj/ViewController.xib51"CompileXIB MapBackgroud/en.lproj/ViewController.xib9622f9379fa2b841^984e2f389fa2b841^---0#0#1#-19%DVTDocumentLocation2@106"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/MapBackgroud/en.lproj/ViewController.xib0000000000000000^763"CompileXIB MapBackgroud/en.lproj/ViewController.xib    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.1 --output-format human-readable-text --compile /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/en.lproj/ViewController.nib /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/en.lproj/ViewController.xib36"1B652992-E42D-4F2F-A306-CCFB7DEFDA32-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CCopyPNGFile /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default-568h@2x.png MapBackgroud/Default-568h@2x.png
+s413310775.968480
+e413310776.222827
+r1
+xCopyPNGFile
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default-568h@2x.png
+xMapBackgroud/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"CopyPNGFile Distribution-iphoneos/MapBackgroud.app/Default-568h@2x.png MapBackgroud/Default-568h@2x.png103"CopyPNGFile Distribution-iphoneos/MapBackgroud.app/Default-568h@2x.png MapBackgroud/Default-568h@2x.pngdbf8f7379fa2b841^670e39389fa2b841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/MapBackgroud/Default-568h@2x.png0000000000000000^650"CopyPNGFile Distribution-iphoneos/MapBackgroud.app/Default-568h@2x.png MapBackgroud/Default-568h@2x.png    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/Default-568h@2x.png /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default-568h@2x.png36"6375F4EF-A393-4C27-857E-BCE837C522FF-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CCopyPNGFile /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default.png MapBackgroud/Default.png
+s413310775.968199
+e413310776.172844
+r1
+xCopyPNGFile
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default.png
+xMapBackgroud/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"CopyPNGFile Distribution-iphoneos/MapBackgroud.app/Default.png MapBackgroud/Default.png87"CopyPNGFile Distribution-iphoneos/MapBackgroud.app/Default.png MapBackgroud/Default.png21e9f7379fa2b841^fd492c389fa2b841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/MapBackgroud/Default.png0000000000000000^618"CopyPNGFile Distribution-iphoneos/MapBackgroud.app/Default.png MapBackgroud/Default.png    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/Default.png /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default.png36"1727BCED-C0D3-4748-8FA9-54D065A796E5-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CCopyPNGFile /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default@2x.png MapBackgroud/Default@2x.png
+s413310775.968204
+e413310776.222743
+r1
+xCopyPNGFile
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default@2x.png
+xMapBackgroud/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"CopyPNGFile Distribution-iphoneos/MapBackgroud.app/Default@2x.png MapBackgroud/Default@2x.png93"CopyPNGFile Distribution-iphoneos/MapBackgroud.app/Default@2x.png MapBackgroud/Default@2x.pngc4eaf7379fa2b841^2d0839389fa2b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/MapBackgroud/Default@2x.png0000000000000000^630"CopyPNGFile Distribution-iphoneos/MapBackgroud.app/Default@2x.png MapBackgroud/Default@2x.png    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/Default@2x.png /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Default@2x.png36"9BCBD6BE-4A53-4818-8F78-F309AD5C2A7D-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CCopyStringsFile /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/en.lproj/InfoPlist.strings MapBackgroud/en.lproj/InfoPlist.strings
+s413310775.968216
+e413310775.971670
+r1
+xCopyStringsFile
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/en.lproj/InfoPlist.strings
+xMapBackgroud/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy MapBackgroud/en.lproj/InfoPlist.strings121"CopyStringsFile Distribution-iphoneos/MapBackgroud.app/en.lproj/InfoPlist.strings MapBackgroud/en.lproj/InfoPlist.stringsb3eaf7379fa2b841^e3c7f8379fa2b841^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/MapBackgroud/en.lproj/InfoPlist.strings0000000000000000^597"CopyStringsFile Distribution-iphoneos/MapBackgroud.app/en.lproj/InfoPlist.strings MapBackgroud/en.lproj/InfoPlist.strings    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/en.lproj -- MapBackgroud/en.lproj/InfoPlist.strings36"1A846220-501F-411C-84E9-C311C6F32A1D-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Distribution-iphoneos/MapBackgroud.app/ResourceRules.plist
+s413310774.917434
+e413310774.919275
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xDistribution-iphoneos/MapBackgroud.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy Distribution-iphoneos/MapBackgroud.app/ResourceRules.plist191"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Distribution-iphoneos/MapBackgroud.app/ResourceRules.plistffe9ea369fa2b841^ef55eb369fa2b841^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/ResourceRules.plist0038d459dfffdf42^885"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Distribution-iphoneos/MapBackgroud.app/ResourceRules.plist    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app36"3CC4F866-7B60-4B8E-BCEE-5CA1CC0A02C8-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CCreateUniversalBinary /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/MapBackgroud normal armv7\ armv7s
+s413310775.912315
+e413310775.929992
+r1
+xCreateUniversalBinary
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/MapBackgroud
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Create universal binary /Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/MapBackgroud94"CreateUniversalBinary Distribution-iphoneos/MapBackgroud.app/MapBackgroud normal armv7\ armv7scb9de9379fa2b841^8715ee379fa2b841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/MapBackgroud0038d459dfffdf42^715"CreateUniversalBinary Distribution-iphoneos/MapBackgroud.app/MapBackgroud normal armv7\ armv7s    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    lipo -create /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/MapBackgroud /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/MapBackgroud -output /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/MapBackgroud36"A60D83AA-E451-4652-BE03-BE55F3E5648D-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CGenerateDSYMFile /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app.dSYM /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/MapBackgroud
+s413310775.938106
+e413310775.960076
+r1
+xGenerateDSYMFile
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app.dSYM
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/MapBackgroud
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Generate /Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app.dSYM112"GenerateDSYMFile Distribution-iphoneos/MapBackgroud.app.dSYM Distribution-iphoneos/MapBackgroud.app/MapBackgroud4835f0379fa2b841^bdc7f5379fa2b841^---0#0#1#-19%DVTDocumentLocation2@109"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app.dSYM0038d459dfffdf42^655"GenerateDSYMFile Distribution-iphoneos/MapBackgroud.app.dSYM Distribution-iphoneos/MapBackgroud.app/MapBackgroud    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/MapBackgroud -o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app.dSYM36"4F95486F-A638-49B0-8DA9-6898405DF36C-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CLd /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/MapBackgroud normal armv7
+s413310775.812274
+e413310775.904035
+r1
+xLd
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/MapBackgroud
+xnormal
+xarmv7
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/MapBackgroud.LinkFileList
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/main.o
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/AppDelegate.o
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/ViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Link /Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/MapBackgroud90"Ld Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/MapBackgroud normal armv7c006d0379fa2b841^f86ee7379fa2b841^---0#0#1#--1386"Ld Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/MapBackgroud normal armv7    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos -F/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos -filelist /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/MapBackgroud.LinkFileList -dead_strip -fobjc-link-runtime -miphoneos-version-min=6.1 -framework AVFoundation -framework CoreLocation -framework MapKit -framework UIKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/MapBackgroud_dependency_info.dat -o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7/MapBackgroud36"ACC0CB36-1388-4584-83CF-945E4EB8549D-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CLd /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/MapBackgroud normal armv7s
+s413310775.812271
+e413310775.903166
+r1
+xLd
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/MapBackgroud
+xnormal
+xarmv7s
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/MapBackgroud.LinkFileList
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/main.o
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/AppDelegate.o
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/ViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/MapBackgroud92"Ld Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/MapBackgroud normal armv7sd810d0379fa2b841^6936e7379fa2b841^---0#0#1#--1392"Ld Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/MapBackgroud normal armv7s    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos -F/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos -filelist /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/MapBackgroud.LinkFileList -dead_strip -fobjc-link-runtime -miphoneos-version-min=6.1 -framework AVFoundation -framework CoreLocation -framework MapKit -framework UIKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/MapBackgroud_dependency_info.dat -o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/Objects-normal/armv7s/MapBackgroud36"1AB74A59-63E1-4AB8-AD9D-2B17E09C8943-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CProcessInfoPlistFile /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Info.plist /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/MapBackgroud-Info.plist
+s413310774.907111
+e413310774.909648
+r1
+xProcessInfoPlistFile
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Info.plist
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/MapBackgroud-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Process /Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/MapBackgroud-Info.plist107"ProcessInfoPlistFile Distribution-iphoneos/MapBackgroud.app/Info.plist MapBackgroud/MapBackgroud-Info.plist7845e8369fa2b841^b1dee8369fa2b841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/MapBackgroud/MapBackgroud-Info.plist0000000000000000^860"ProcessInfoPlistFile Distribution-iphoneos/MapBackgroud.app/Info.plist MapBackgroud/MapBackgroud-Info.plist    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/MapBackgroud-Info.plist -genpkginfo /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/ResourceRules.plist -o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/Info.plist36"CE4FEEC4-16B0-4B80-B97C-33B7FC16D358-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CProcessPCH /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-avoobminyhxxrfdlwypvttwrzaeu/MapBackgroud-Prefix.pch.pch MapBackgroud/MapBackgroud-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413310774.929860
+e413310775.600360
+r1
+xProcessPCH
+x/Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-avoobminyhxxrfdlwypvttwrzaeu/MapBackgroud-Prefix.pch.pch
+xMapBackgroud/MapBackgroud-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/MapBackgroud-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile MapBackgroud/MapBackgroud-Prefix.pch322"ProcessPCH /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-avoobminyhxxrfdlwypvttwrzaeu/MapBackgroud-Prefix.pch.pch MapBackgroud/MapBackgroud-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler9b1cee369fa2b841^eeb099379fa2b841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/MapBackgroud/MapBackgroud-Prefix.pch0000000000000000^3503"ProcessPCH /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-avoobminyhxxrfdlwypvttwrzaeu/MapBackgroud-Prefix.pch.pch MapBackgroud/MapBackgroud-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-generated-files.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-own-target-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-all-target-headers.hmap -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-project-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources/armv7s -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources -F/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-avoobminyhxxrfdlwypvttwrzaeu/MapBackgroud-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-avoobminyhxxrfdlwypvttwrzaeu/MapBackgroud-Prefix.pch.d -c /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/MapBackgroud-Prefix.pch -o /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-avoobminyhxxrfdlwypvttwrzaeu/MapBackgroud-Prefix.pch.pch36"AB12F0A3-5E44-4AAE-990D-39FD25319A24-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CProcessPCH /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-clmxifdntyesfgabwzcyvuoytwlk/MapBackgroud-Prefix.pch.pch MapBackgroud/MapBackgroud-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413310774.928620
+e413310775.600569
+r1
+xProcessPCH
+x/Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-clmxifdntyesfgabwzcyvuoytwlk/MapBackgroud-Prefix.pch.pch
+xMapBackgroud/MapBackgroud-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Sky/Desktop/untitled folder/MapBackgroud/MapBackgroud/MapBackgroud-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile MapBackgroud/MapBackgroud-Prefix.pch321"ProcessPCH /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-clmxifdntyesfgabwzcyvuoytwlk/MapBackgroud-Prefix.pch.pch MapBackgroud/MapBackgroud-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0ccded369fa2b841^59bf99379fa2b841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/MapBackgroud/MapBackgroud-Prefix.pch0000000000000000^3500"ProcessPCH /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-clmxifdntyesfgabwzcyvuoytwlk/MapBackgroud-Prefix.pch.pch MapBackgroud/MapBackgroud-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-generated-files.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-own-target-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-all-target-headers.hmap -iquote /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud-project-headers.hmap -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources/armv7 -I/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/DerivedSources -F/Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-clmxifdntyesfgabwzcyvuoytwlk/MapBackgroud-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-clmxifdntyesfgabwzcyvuoytwlk/MapBackgroud-Prefix.pch.d -c /Users/Sky/Desktop/untitled\ folder/MapBackgroud/MapBackgroud/MapBackgroud-Prefix.pch -o /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Build/Intermediates/PrecompiledHeaders/MapBackgroud-Prefix-clmxifdntyesfgabwzcyvuoytwlk/MapBackgroud-Prefix.pch.pch36"43EFD094-90D2-47B6-8F87-C3409EB02FB1-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CProcessPCH /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Index/PrecompiledHeaders/MapBackgroud-Prefix-dpkliuweyatowpcwyxjcsucjvugt_ast/MapBackgroud-Prefix.pch.pch MapBackgroud/MapBackgroud-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Sky/Library/Developer/Xcode/DerivedData/MapBackgroud-crppwyerzpcvbwdoncxvzfdmepmh/Index/PrecompiledHeaders/MapBackgroud-Prefix-fuysqhnymribrhgixtykrxldwxkx_ast/MapBackgroud-Prefix.pch.pch MapBackgroud/MapBackgroud-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud.xcent
+s413310776.267538
+e413310776.269787
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection204"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Distribution-iphoneos/MapBackgroud.build/MapBackgroud.xcent204"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Distribution-iphoneos/MapBackgroud.build/MapBackgroud.xcent008b44389fa2b841^381145389fa2b841^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud.xcent0038d459dfffdf42^745"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Distribution-iphoneos/MapBackgroud.build/MapBackgroud.xcent    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.build/MapBackgroud.xcent36"DAE7D118-0FAA-45BA-8A3E-E67D874EBD7B-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CProcessProductPackaging /Users/Sky/Library/MobileDevice/Provisioning\ Profiles/MY_pro.mobileprovision /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/embedded.mobileprovision
+s413310776.230959
+e413310776.257854
+r1
+xProcessProductPackaging
+x/Users/Sky/Library/MobileDevice/Provisioning Profiles/MY_pro.mobileprovision
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection165"ProcessProductPackaging /Users/Sky/Library/MobileDevice/Provisioning\ Profiles/MY_pro.mobileprovision Distribution-iphoneos/MapBackgroud.app/embedded.mobileprovision165"ProcessProductPackaging /Users/Sky/Library/MobileDevice/Provisioning\ Profiles/MY_pro.mobileprovision Distribution-iphoneos/MapBackgroud.app/embedded.mobileprovisiond82c3b389fa2b841^fb0242389fa2b841^---0#0#1#-19%DVTDocumentLocation2@129"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/embedded.mobileprovision0038d459dfffdf42^641"ProcessProductPackaging /Users/Sky/Library/MobileDevice/Provisioning\ Profiles/MY_pro.mobileprovision Distribution-iphoneos/MapBackgroud.app/embedded.mobileprovision    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/Sky/Library/MobileDevice/Provisioning\ Profiles/MY_pro.mobileprovision -o /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/embedded.mobileprovision36"B1E67F8C-8A16-447F-A1E8-A8981178C249-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
+CTouch /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app
+r0
+
+CValidate /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app
+s413310776.528747
+e413310776.604207
+r1
+xValidate
+x/Users/Sky/Desktop/untitled folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Validate Distribution-iphoneos/MapBackgroud.app47"Validate Distribution-iphoneos/MapBackgroud.app626a87389fa2b841^d6ad9a389fa2b841^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/Sky/Desktop/untitled%20folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app/0000000000000000^544"Validate Distribution-iphoneos/MapBackgroud.app    cd "/Users/Sky/Desktop/untitled folder/MapBackgroud"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/Sky/Desktop/untitled\ folder/MapBackgroud/Distribution-iphoneos/MapBackgroud.app36"1CFCFA2B-D4AA-493F-8B95-B668F59B7754-
+bFEC4D36D-1364-4A42-B0D0-41F018403031
+
