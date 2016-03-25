@@ -1,0 +1,29 @@
+1Market street
+2Church Street
+3South Street
+4Abbey Street
+5Greenside Place
+6Langside Road
+7Lamond Drive 3
+8Lamond Drive 4
+9Pipeland
+10Tom Morris Dr 2
+11Broomfaulds1
+12Canongate
+13John Knox1
+14John Knox opp Morrisons
+15Scooniehill Rd1
+16Scooniehill Rd2/James AndersonPlace
+17Scooniehill Rd
+18Kilrymont Road
+19Kilrymont Place
+20Warrack Street
+21Lamond Drive1
+22Lamond Drive2
+23St Mary Street
+24Abbey Walk1
+25Abbey Walk2
+26Abbey Street
+27South Street
+28South Street/Madras college
+29St Marys Pl.

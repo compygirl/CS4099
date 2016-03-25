@@ -1,0 +1,21 @@
+//
+// Prefix header for all source files of the 'MapRouteDemo' target in the 'MapRouteDemo' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <CoreLocation/CoreLocation.h>
+    #import <Foundation/Foundation.h>
+    #import <MapKit/MapKit.h>
+    #import <UIKit/UIKit.h>
+    #import <GoogleMaps/GoogleMaps.h>
+    #import "SaintDef.h"
+#endif
+
+#define EAIGetBGQueue dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0)
+#define EAIGetMainQueue dispatch_get_main_queue()

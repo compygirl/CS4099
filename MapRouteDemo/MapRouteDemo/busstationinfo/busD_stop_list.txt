@@ -1,0 +1,25 @@
+1Market street
+2Church Street
+3South Street/Madras college
+4St Marys Pl
+5Hepburn Garden1
+6Hepburn Garden2
+7Buchanan Garden1
+8Buchanan Garden2
+9opp Davaid Russell Apts
+10Lawhead Rd
+11Bogward Lawmill Garden
+12Bogward Rd1
+13Bogward Rd2
+14Canongate
+15John Knox1
+16John Knox opp Morrisons
+17Scooniehill Rd1
+18Scooniehill Rd2
+19Schoolbraids2
+20Tom Morris Dr 1
+21Tom Morris Dr 2
+22Broomfaulds1
+23Largo Rd1
+24City Rd
+25Bus Station

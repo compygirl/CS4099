@@ -1,0 +1,28 @@
+1City Road
+2Largo road
+3Canongate
+4Canongate
+5Canongate
+6Canongate1
+7Bogward Rd1
+8Bogward Rd2
+9Bogward Rd1
+10Bogward Rd2
+11Canongate
+12John Knox1
+13John Knox opp Morrisons
+14Scooniehill Rd1
+15Scooniehill Rd2/James AndersonPlace
+16Scooniehill Rd
+17Kilrymont Road
+18Kilrymont Place
+19Warrack Street
+20Lamond Drive
+21Lamond Drive
+22St Mary Street
+23Abbey Walk
+24Abbey Walk
+25Abbey Street
+26South Street
+27South Street/Madras college
+28St Marys Pl.
